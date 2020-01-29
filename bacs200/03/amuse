@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <meta charset="UTF-8">
+        <title>Page Title</title>
+
+    </head>
+    <body>
+
+        <h1>Amusements</h1>
+        <img src="https://i.ytimg.com/vi/ZmgPc_GFOqw/maxresdefault.jpg" alt="dd1">
+        <h2>Amusement #1</h2>
+        <p>Description ... </p>
+        <p>Description ... </p>
+        <p><a href="https://www.youtube.com/watch?v=KKoQmsUZtO0&list=PLnOz4ii-wwzl1gH86mhqCHGOCqv4Vz0-T&index=2&t=0s">dining with dickey</a></p>
+        
+    </body>
+</html>

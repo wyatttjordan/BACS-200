@@ -1,13 +1,26 @@
 body {
     background-color: lightseagreen;
+    font-family: sans-serif
 }
 
 h1 {
     color: green;
-    border: 1px solid gray;
+    border: 5px solid gray;
     background-color: lightgrey;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
 }
 
 a {
     color: red;
+}
+li {
+    font-family: sans-serif
+}
+img {
+    display: block;
+    margin: auto;
+    
 }

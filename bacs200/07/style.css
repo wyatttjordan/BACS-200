@@ -3,11 +3,35 @@ body {
 }
 
 h1 {
-    color: green;
-    border: 1px solid gray;
-    background-color: white;
+    color: saddlebrown;
+    border: 3px solid;
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 1000;
+    font-size: 60pt;
 }
-
+h2 {
+    color: saddlebrown;
+    text-align: center;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 30pt
+}
 a {
     color: red;
+}
+img {
+    display: block;
+    margin: auto;
+}
+li {
+    color: saddlebrown;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 20pt;
+    
 }

@@ -17,10 +17,34 @@ a {
     color: red;
 }
 li {
-    font-family: sans-serif
+    font-family: sans-serif;
+    margin-left: 10px;
 }
 img {
     display: block;
-    margin: auto;
+    margin: 1em;
     
+}
+aside {
+    float:right;
+    background-color: lightgrey;
+    border: 5px solid gray;
+    padding: 5px;
+}
+nav {
+    float:left;
+    background-color: lightgrey;
+    border: 5px solid gray;
+    padding-right: 25px;
+    text-align: left;
+}
+h2 {
+    text-align: left
+}
+p {
+    padding-right: 5px
+}
+#mainmenu {
+    display:block;
+    float: right;
 }

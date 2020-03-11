@@ -1,6 +1,8 @@
 body {
     background-color: lightseagreen;
-    font-family: sans-serif
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 10px;
 }
 
 h1 {
@@ -11,6 +13,7 @@ h1 {
     font-weight: bolder;
     text-align: center;
     padding: 10px;
+    margin: 10px;
 }
 
 a {
@@ -30,6 +33,7 @@ aside {
     background-color: lightgrey;
     border: 5px solid gray;
     padding: 5px;
+    margin-right: 10px;
 }
 nav {
     float:left;
@@ -47,4 +51,26 @@ p {
 #mainmenu {
     display:block;
     float: right;
+    text-align: center;
+    padding-right: 15px;
+    padding-top: 15px;
+    text-align: center;
+    margin-right: 10px;
+}
+div {
+    width: 500px;
+    padding-right: 10px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+#accordion {
+    
+}
+#carousel1 {
+    margin-left: 500px;
+    margin-top: 80px;
 }

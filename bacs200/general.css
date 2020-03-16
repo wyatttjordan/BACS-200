@@ -72,5 +72,8 @@ div {
 }
 #carousel1 {
     margin-left: 500px;
-    margin-top: 80px;
+  
+}
+#alert alert-info {
+    margin-left:100px;
 }

@@ -1,0 +1,23 @@
+
+h1 {
+    text-align:center;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+}
+
+nav {
+    padding-left: 41%;
+}
+
+div {
+    width: 700px;
+    height: inherit;
+    
+}

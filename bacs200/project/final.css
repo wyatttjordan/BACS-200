@@ -7,17 +7,22 @@ h2 {
     text-align: center;
 }
 
+ul{
+    text-align: center;
+    color: gainsboro;
+    border-color: dimgrey;
+    
+    
+}
+
 li {
     display: inline-block;
-    text-align: center;
 }
 
 nav {
-    padding-left: 41%;
 }
 
 div {
     width: 700px;
     height: inherit;
-    
 }

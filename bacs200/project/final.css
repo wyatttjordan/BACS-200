@@ -14,6 +14,7 @@ ul{
 li {
     display: inline-block;
     font-weight: bolder;
+    padding: 5px;
 
 }
 
@@ -21,8 +22,8 @@ nav {
     background-color: lightgrey;
    border: 5px solid darkgrey;
     padding-top: 15px;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 42%;
+    margin-right: 42%;
     padding-right: 35px;
     margin-bottom: 20px;
 }
@@ -30,7 +31,6 @@ nav {
 #carousel1 {
     width: 400px;
     height: inherit;
-    display:block;
 }
 p {
     border: 5px solid darkgrey;
@@ -43,7 +43,7 @@ body {
 }
 iframe{
     display: block;
-    margin-left: 30%;
+    margin-left: 35%;
     margin-bottom: 20px;
 }
 .modal {

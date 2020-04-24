@@ -41,6 +41,7 @@ p {
 body {
     text-align: center;
 }
+
 iframe{
     display: block;
     margin-left: 35%;
@@ -81,4 +82,10 @@ iframe{
   color: black;
   text-decoration: none;
   cursor: pointer;
+}
+#fb {
+    display: block;
+    margin-left: 40%;
+}
+aside {
 }

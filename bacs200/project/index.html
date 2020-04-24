@@ -25,6 +25,45 @@
         <li><a href="page5.html"> Socials </a></li>    
         </ul>
         </nav>
+         <!-- Trigger/Open The Modal -->
+<button id="myBtn">Click to follow Starwraith on Streaming Platforms!</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p> <a href="https://linktr.ee/starwraith"> Click Here!</a></p>
+  </div>
+
+</div>
+         <script
+            // Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on the button, open the modal
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on 
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+></script>
         </header>
 <div class="col-md-2">
 <div id="carousel1" class="carousel slide" data-ride="carousel">

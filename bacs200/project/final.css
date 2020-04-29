@@ -29,14 +29,17 @@ nav {
 }
 
 #carousel1 {
-    width: 400px;
+    width: 500px;
     height: inherit;
+    border: 5px solid darkgrey;
+    margin-left: 209%;
 }
 p {
     border: 5px solid darkgrey;
     padding:5px;
     text-align: center;
     margin: 20px;
+    margin-top: 5px;
 }
 body {
     text-align: center;
@@ -85,7 +88,15 @@ iframe{
 }
 #fb {
     display: block;
-    margin-left: 40%;
+    margin-left: 25%;
+    padding-top: 10px
 }
-aside {
+
+#mymodal {
+    margin-left: 10px;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
